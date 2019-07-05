@@ -1,0 +1,23 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "training",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grvsharma765/training.git"
+  },
+  "keywords": [
+    "git",
+    "training"
+  ],
+  "author": "gaurav sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grvsharma765/training/issues"
+  },
+  "homepage": "https://github.com/grvsharma765/training#readme"
+}
